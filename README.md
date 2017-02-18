@@ -1,4 +1,4 @@
-tatistical Analysis: Stroop Test Udacity Project 1
+# Statistical Analysis: Stroop Test Udacity Project 1
 
 This repository consists off:
   - Final Project Documentation 
